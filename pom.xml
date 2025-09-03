@@ -12,6 +12,7 @@
     <url>https://spring-petclinic.github.io/</url>
 
     <properties>
+             <!-- this is new line -->
 
         <!-- Generic properties -->
         <java.version>1.8</java.version>
